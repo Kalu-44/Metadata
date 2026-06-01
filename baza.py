@@ -1,7 +1,7 @@
 class BazaLinkova:
 
     def __init__(self):
-        self.URL = "https://www.reddit.com/"
+        self.URL = "https://oet.etf.bg.ac.rs/OET_kolokvijum_2.pdf"
         self.FlagName = ""
 
     def getUrl(self):
